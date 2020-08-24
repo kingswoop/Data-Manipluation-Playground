@@ -273,5 +273,5 @@ def fetchdata():
 
 ####MAIN FUNCTIONS####
 fetchdata()
-#update()
+update()
 #test()
