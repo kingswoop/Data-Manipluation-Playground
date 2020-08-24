@@ -205,7 +205,6 @@ def fetchdata():
             tempresult = []
             
             ##Categorise
-            #['183773', 'AGG70162-373', 'Womens Fret Knot Tie Front Mini Dress - Blue - 4, Blue', 'Clothing', 'Dresses~~Bodycon Mini Dress', 'https://click.linksynergy.com/link?id=M/KA6yTkRaM&offerid=508340.183773&type=15&murl=http%3A%2F%2Fwww.nastygal.com%2Fau%2FAGG70162-373-12.html', 'http://i1.adis.ws/i/boohooamplience/agg70162_pale%20blue_xl.jpg', 'female', nan, 44.0, 'Blue', 'Nasty Gal']
             categoryassign = x[4]
             productname = x[2]
             productid = x[0]
